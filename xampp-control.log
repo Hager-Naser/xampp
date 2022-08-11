@@ -1,0 +1,347 @@
+11:50:05 ã  [main] 	Initializing Control Panel
+11:50:05 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+11:50:05 ã  [main] 	XAMPP Version: 8.0.19
+11:50:05 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:50:05 ã  [main] 	Running with Administrator rights - good!
+11:50:05 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+11:50:05 ã  [main] 	Checking for prerequisites
+11:50:13 ã  [main] 	All prerequisites found
+11:50:13 ã  [main] 	Initializing Modules
+11:50:13 ã  [main] 	The FileZilla module is disabled
+11:50:13 ã  [main] 	The Mercury module is disabled
+11:50:13 ã  [main] 	The Tomcat module is disabled
+11:50:13 ã  [main] 	Starting Check-Timer
+11:50:13 ã  [main] 	Control Panel Ready
+11:50:37 ã  [Apache] 	Attempting to start Apache app...
+11:50:38 ã  [Apache] 	Status change detected: running
+11:50:41 ã  [mysql] 	Attempting to start MySQL app...
+11:50:42 ã  [mysql] 	Status change detected: running
+11:54:19 ã  [main] 	Deinitializing Modules
+11:54:19 ã  [main] 	Deinitializing Control Panel
+
+03:17:28 ã  [main] 	Initializing Control Panel
+03:17:28 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+03:17:28 ã  [main] 	XAMPP Version: 8.0.19
+03:17:28 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+03:17:28 ã  [main] 	Running with Administrator rights - good!
+03:17:28 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+03:17:29 ã  [main] 	Checking for prerequisites
+03:18:10 ã  [main] 	All prerequisites found
+03:18:10 ã  [main] 	Initializing Modules
+03:18:10 ã  [main] 	The FileZilla module is disabled
+03:18:10 ã  [main] 	The Mercury module is disabled
+03:18:10 ã  [main] 	The Tomcat module is disabled
+03:18:10 ã  [main] 	Starting Check-Timer
+03:18:10 ã  [main] 	Control Panel Ready
+03:18:18 ã  [mysql] 	Attempting to start MySQL app...
+03:18:18 ã  [mysql] 	Status change detected: running
+03:18:25 ã  [Apache] 	Attempting to start Apache app...
+03:18:25 ã  [Apache] 	Status change detected: running
+12:36:11 Õ  [main] 	Deinitializing Modules
+12:36:11 Õ  [main] 	Deinitializing Control Panel
+
+01:13:36 ã  [main] 	Initializing Control Panel
+01:13:36 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+01:13:36 ã  [main] 	XAMPP Version: 8.0.19
+01:13:36 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+01:13:36 ã  [main] 	Running with Administrator rights - good!
+01:13:36 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+01:13:37 ã  [main] 	Checking for prerequisites
+01:13:45 ã  [main] 	All prerequisites found
+01:13:45 ã  [main] 	Initializing Modules
+01:13:45 ã  [main] 	The FileZilla module is disabled
+01:13:45 ã  [main] 	The Mercury module is disabled
+01:13:45 ã  [main] 	The Tomcat module is disabled
+01:13:45 ã  [main] 	Starting Check-Timer
+01:13:45 ã  [main] 	Control Panel Ready
+01:15:35 ã  [Apache] 	Attempting to start Apache app...
+01:15:36 ã  [Apache] 	Status change detected: running
+01:15:43 ã  [mysql] 	Attempting to start MySQL app...
+01:15:44 ã  [mysql] 	Status change detected: running
+09:10:22 ã  [main] 	Deinitializing Modules
+09:10:22 ã  [main] 	Deinitializing Control Panel
+
+09:45:02 Õ  [main] 	Initializing Control Panel
+09:45:02 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+09:45:03 Õ  [main] 	XAMPP Version: 8.0.19
+09:45:03 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:45:03 Õ  [main] 	Running with Administrator rights - good!
+09:45:03 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+09:45:03 Õ  [main] 	Checking for prerequisites
+09:45:25 Õ  [main] 	All prerequisites found
+09:45:25 Õ  [main] 	Initializing Modules
+09:45:26 Õ  [Apache] 	XAMPP Apache is already running on port 80
+09:45:26 Õ  [Apache] 	XAMPP Apache is already running on port 443
+09:45:26 Õ  [mysql] 	XAMPP MySQL is already running on port 3306
+09:45:26 Õ  [main] 	The FileZilla module is disabled
+09:45:26 Õ  [main] 	The Mercury module is disabled
+09:45:26 Õ  [main] 	The Tomcat module is disabled
+09:45:26 Õ  [main] 	Enabling autostart for module "Apache"
+09:45:26 Õ  [main] 	Enabling autostart for module "MySQL"
+09:45:26 Õ  [main] 	Starting Check-Timer
+09:45:26 Õ  [main] 	Control Panel Ready
+09:45:26 Õ  [Apache] 	Autostart aborted: Apache is already running
+09:45:26 Õ  [mysql] 	Autostart aborted: MySQL is already running
+02:01:03 Õ  [main] 	Deinitializing Modules
+02:01:03 Õ  [main] 	Deinitializing Control Panel
+
+09:37:34 Õ  [main] 	Initializing Control Panel
+09:37:35 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+09:37:36 Õ  [main] 	XAMPP Version: 8.0.19
+09:37:36 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:37:36 Õ  [main] 	Running with Administrator rights - good!
+09:37:36 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+09:37:36 Õ  [main] 	Checking for prerequisites
+09:38:20 Õ  [main] 	All prerequisites found
+09:38:20 Õ  [main] 	Initializing Modules
+09:38:21 Õ  [main] 	The FileZilla module is disabled
+09:38:21 Õ  [main] 	The Mercury module is disabled
+09:38:21 Õ  [main] 	The Tomcat module is disabled
+09:38:21 Õ  [main] 	Enabling autostart for module "Apache"
+09:38:21 Õ  [main] 	Enabling autostart for module "MySQL"
+09:38:21 Õ  [main] 	Starting Check-Timer
+09:38:21 Õ  [main] 	Control Panel Ready
+09:38:22 Õ  [Apache] 	Autostart active: starting...
+09:38:22 Õ  [Apache] 	Attempting to start Apache app...
+09:38:24 Õ  [mysql] 	Autostart active: starting...
+09:38:24 Õ  [mysql] 	Attempting to start MySQL app...
+09:38:24 Õ  [Apache] 	Status change detected: running
+09:38:24 Õ  [mysql] 	Status change detected: running
+02:01:05 Õ  [Apache] 	Status change detected: stopped
+02:01:05 Õ  [Apache] 	Error: Apache shutdown unexpectedly.
+02:01:05 Õ  [Apache] 	This may be due to a blocked port, missing dependencies, 
+02:01:05 Õ  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+02:01:05 Õ  [Apache] 	Press the Logs button to view error logs and check
+02:01:05 Õ  [Apache] 	the Windows Event Viewer for more clues
+02:01:05 Õ  [Apache] 	If you need more help, copy and post this
+02:01:05 Õ  [Apache] 	entire log window on the forums
+02:01:05 Õ  [mysql] 	Status change detected: stopped
+02:01:05 Õ  [mysql] 	Error: MySQL shutdown unexpectedly.
+02:01:05 Õ  [mysql] 	This may be due to a blocked port, missing dependencies, 
+02:01:05 Õ  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+02:01:05 Õ  [mysql] 	Press the Logs button to view error logs and check
+02:01:05 Õ  [mysql] 	the Windows Event Viewer for more clues
+02:01:05 Õ  [mysql] 	If you need more help, copy and post this
+02:01:05 Õ  [mysql] 	entire log window on the forums
+02:01:05 Õ  [main] 	Deinitializing Modules
+02:01:05 Õ  [main] 	Deinitializing Control Panel
+
+11:01:57 Õ  [main] 	Initializing Control Panel
+11:01:57 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+11:01:57 Õ  [main] 	XAMPP Version: 8.0.19
+11:01:57 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:01:57 Õ  [main] 	Running with Administrator rights - good!
+11:01:57 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+11:01:57 Õ  [main] 	Checking for prerequisites
+11:01:57 Õ  [main] 	All prerequisites found
+11:01:57 Õ  [main] 	Initializing Modules
+11:01:57 Õ  [Apache] 	XAMPP Apache is already running on port 80
+11:01:57 Õ  [Apache] 	XAMPP Apache is already running on port 443
+11:01:57 Õ  [main] 	The FileZilla module is disabled
+11:01:57 Õ  [main] 	The Mercury module is disabled
+11:01:57 Õ  [main] 	The Tomcat module is disabled
+11:01:57 Õ  [main] 	Enabling autostart for module "Apache"
+11:01:57 Õ  [main] 	Enabling autostart for module "MySQL"
+11:01:57 Õ  [main] 	Starting Check-Timer
+11:01:57 Õ  [main] 	Control Panel Ready
+11:01:58 Õ  [Apache] 	Autostart aborted: Apache is already running
+11:01:58 Õ  [mysql] 	Autostart aborted: MySQL is already running
+05:03:20 ã  [main] 	Deinitializing Modules
+05:03:20 ã  [main] 	Deinitializing Control Panel
+
+10:00:04 Õ  [main] 	Initializing Control Panel
+10:00:05 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+10:00:05 Õ  [main] 	XAMPP Version: 8.0.19
+10:00:05 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:00:05 Õ  [main] 	Running with Administrator rights - good!
+10:00:05 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+10:00:05 Õ  [main] 	Checking for prerequisites
+10:00:14 Õ  [main] 	All prerequisites found
+10:00:14 Õ  [main] 	Initializing Modules
+10:00:14 Õ  [main] 	The FileZilla module is disabled
+10:00:14 Õ  [main] 	The Mercury module is disabled
+10:00:14 Õ  [main] 	The Tomcat module is disabled
+10:00:14 Õ  [main] 	Enabling autostart for module "Apache"
+10:00:14 Õ  [main] 	Enabling autostart for module "MySQL"
+10:00:14 Õ  [main] 	Starting Check-Timer
+10:00:14 Õ  [main] 	Control Panel Ready
+10:00:15 Õ  [Apache] 	Autostart active: starting...
+10:00:15 Õ  [Apache] 	Attempting to start Apache app...
+10:00:15 Õ  [mysql] 	Autostart active: starting...
+10:00:15 Õ  [mysql] 	Attempting to start MySQL app...
+10:00:17 Õ  [Apache] 	Status change detected: running
+10:00:17 Õ  [mysql] 	Status change detected: running
+05:03:41 ã  [main] 	Deinitializing Modules
+05:03:41 ã  [main] 	Deinitializing Control Panel
+
+07:59:11 ã  [main] 	Initializing Control Panel
+07:59:12 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+07:59:13 ã  [main] 	XAMPP Version: 8.0.19
+07:59:13 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+07:59:13 ã  [main] 	Running with Administrator rights - good!
+07:59:13 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+07:59:13 ã  [main] 	Checking for prerequisites
+07:59:37 ã  [main] 	All prerequisites found
+07:59:37 ã  [main] 	Initializing Modules
+07:59:37 ã  [main] 	The FileZilla module is disabled
+07:59:37 ã  [main] 	The Mercury module is disabled
+07:59:37 ã  [main] 	The Tomcat module is disabled
+07:59:37 ã  [main] 	Enabling autostart for module "Apache"
+07:59:37 ã  [main] 	Enabling autostart for module "MySQL"
+07:59:37 ã  [main] 	Starting Check-Timer
+07:59:37 ã  [main] 	Control Panel Ready
+07:59:38 ã  [Apache] 	Autostart active: starting...
+07:59:38 ã  [Apache] 	Attempting to start Apache app...
+07:59:38 ã  [mysql] 	Autostart active: starting...
+07:59:38 ã  [mysql] 	Attempting to start MySQL app...
+07:59:39 ã  [Apache] 	Status change detected: running
+07:59:39 ã  [mysql] 	Status change detected: running
+01:59:36 Õ  [main] 	Deinitializing Modules
+01:59:36 Õ  [main] 	Deinitializing Control Panel
+
+07:59:11 ã  [main] 	Initializing Control Panel
+07:59:12 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+07:59:13 ã  [main] 	XAMPP Version: 8.0.19
+07:59:13 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+07:59:13 ã  [main] 	Running with Administrator rights - good!
+07:59:13 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+07:59:13 ã  [main] 	Checking for prerequisites
+07:59:37 ã  [main] 	All prerequisites found
+07:59:37 ã  [main] 	Initializing Modules
+07:59:37 ã  [main] 	The FileZilla module is disabled
+07:59:37 ã  [main] 	The Mercury module is disabled
+07:59:37 ã  [main] 	The Tomcat module is disabled
+07:59:37 ã  [main] 	Enabling autostart for module "Apache"
+07:59:37 ã  [main] 	Enabling autostart for module "MySQL"
+07:59:37 ã  [main] 	Starting Check-Timer
+07:59:37 ã  [main] 	Control Panel Ready
+07:59:38 ã  [Apache] 	Autostart active: starting...
+07:59:38 ã  [Apache] 	Attempting to start Apache app...
+07:59:38 ã  [mysql] 	Autostart active: starting...
+07:59:38 ã  [mysql] 	Attempting to start MySQL app...
+07:59:39 ã  [Apache] 	Status change detected: running
+07:59:39 ã  [mysql] 	Status change detected: running
+01:59:36 Õ  [Apache] 	Status change detected: stopped
+01:59:36 Õ  [Apache] 	Error: Apache shutdown unexpectedly.
+01:59:36 Õ  [Apache] 	This may be due to a blocked port, missing dependencies, 
+01:59:36 Õ  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+01:59:36 Õ  [Apache] 	Press the Logs button to view error logs and check
+01:59:36 Õ  [Apache] 	the Windows Event Viewer for more clues
+01:59:36 Õ  [Apache] 	If you need more help, copy and post this
+01:59:36 Õ  [Apache] 	entire log window on the forums
+01:59:36 Õ  [mysql] 	Status change detected: stopped
+01:59:36 Õ  [mysql] 	Error: MySQL shutdown unexpectedly.
+01:59:36 Õ  [mysql] 	This may be due to a blocked port, missing dependencies, 
+01:59:36 Õ  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+01:59:36 Õ  [mysql] 	Press the Logs button to view error logs and check
+01:59:36 Õ  [mysql] 	the Windows Event Viewer for more clues
+01:59:36 Õ  [mysql] 	If you need more help, copy and post this
+01:59:36 Õ  [mysql] 	entire log window on the forums
+01:59:36 Õ  [main] 	Deinitializing Modules
+01:59:36 Õ  [main] 	Deinitializing Control Panel
+
+10:35:40 Õ  [main] 	Initializing Control Panel
+10:35:40 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+10:35:41 Õ  [main] 	XAMPP Version: 8.0.19
+10:35:41 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:35:41 Õ  [main] 	Running with Administrator rights - good!
+10:35:41 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+10:35:41 Õ  [main] 	Checking for prerequisites
+10:35:51 Õ  [main] 	All prerequisites found
+10:35:51 Õ  [main] 	Initializing Modules
+10:35:51 Õ  [main] 	The FileZilla module is disabled
+10:35:51 Õ  [main] 	The Mercury module is disabled
+10:35:51 Õ  [main] 	The Tomcat module is disabled
+10:35:51 Õ  [main] 	Enabling autostart for module "Apache"
+10:35:51 Õ  [main] 	Enabling autostart for module "MySQL"
+10:35:51 Õ  [main] 	Starting Check-Timer
+10:35:51 Õ  [main] 	Control Panel Ready
+10:35:51 Õ  [Apache] 	Autostart active: starting...
+10:35:51 Õ  [Apache] 	Attempting to start Apache app...
+10:35:52 Õ  [mysql] 	Autostart active: starting...
+10:35:52 Õ  [mysql] 	Attempting to start MySQL app...
+10:35:55 Õ  [Apache] 	Status change detected: running
+10:35:55 Õ  [mysql] 	Status change detected: running
+10:36:06 Õ  [Apache] 	Attempting to stop Apache (PID: 4620)
+10:36:06 Õ  [Apache] 	Attempting to stop Apache (PID: 3076)
+10:36:06 Õ  [Apache] 	Status change detected: stopped
+10:36:07 Õ  [Apache] 	Attempting to start Apache app...
+10:36:07 Õ  [Apache] 	Status change detected: running
+06:52:19 ã  [main] 	Deinitializing Modules
+06:52:19 ã  [main] 	Deinitializing Control Panel
+
+01:47:38 Õ  [main] 	Initializing Control Panel
+01:47:39 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+01:47:39 Õ  [main] 	XAMPP Version: 8.0.19
+01:47:39 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+01:47:39 Õ  [main] 	Running with Administrator rights - good!
+01:47:39 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+01:47:39 Õ  [main] 	Checking for prerequisites
+01:47:47 Õ  [main] 	All prerequisites found
+01:47:47 Õ  [main] 	Initializing Modules
+01:47:47 Õ  [main] 	The FileZilla module is disabled
+01:47:47 Õ  [main] 	The Mercury module is disabled
+01:47:47 Õ  [main] 	The Tomcat module is disabled
+01:47:47 Õ  [main] 	Enabling autostart for module "Apache"
+01:47:47 Õ  [main] 	Enabling autostart for module "MySQL"
+01:47:47 Õ  [main] 	Starting Check-Timer
+01:47:47 Õ  [main] 	Control Panel Ready
+01:47:47 Õ  [Apache] 	Autostart active: starting...
+01:47:48 Õ  [Apache] 	Attempting to start Apache app...
+01:47:48 Õ  [mysql] 	Autostart active: starting...
+01:47:48 Õ  [mysql] 	Attempting to start MySQL app...
+01:47:49 Õ  [Apache] 	Status change detected: running
+01:47:49 Õ  [mysql] 	Status change detected: running
+02:59:15 Õ  [main] 	Deinitializing Modules
+02:59:15 Õ  [main] 	Deinitializing Control Panel
+
+11:58:12 Õ  [main] 	Initializing Control Panel
+11:58:12 Õ  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+11:58:12 Õ  [main] 	XAMPP Version: 8.0.19
+11:58:12 Õ  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:58:12 Õ  [main] 	Running with Administrator rights - good!
+11:58:12 Õ  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+11:58:12 Õ  [main] 	Checking for prerequisites
+11:58:34 Õ  [main] 	All prerequisites found
+11:58:34 Õ  [main] 	Initializing Modules
+11:58:35 Õ  [main] 	The FileZilla module is disabled
+11:58:35 Õ  [main] 	The Mercury module is disabled
+11:58:35 Õ  [main] 	The Tomcat module is disabled
+11:58:35 Õ  [main] 	Enabling autostart for module "Apache"
+11:58:35 Õ  [main] 	Enabling autostart for module "MySQL"
+11:58:35 Õ  [main] 	Starting Check-Timer
+11:58:35 Õ  [main] 	Control Panel Ready
+11:58:35 Õ  [Apache] 	Autostart active: starting...
+11:58:35 Õ  [Apache] 	Attempting to start Apache app...
+11:58:36 Õ  [mysql] 	Autostart active: starting...
+11:58:36 Õ  [mysql] 	Attempting to start MySQL app...
+11:58:41 Õ  [Apache] 	Status change detected: running
+11:58:41 Õ  [mysql] 	Status change detected: running
+01:29:24 ã  [main] 	Deinitializing Modules
+01:29:24 ã  [main] 	Deinitializing Control Panel
+
+02:03:15 ã  [main] 	Initializing Control Panel
+02:03:16 ã  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+02:03:16 ã  [main] 	XAMPP Version: 8.0.19
+02:03:16 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+02:03:16 ã  [main] 	Running with Administrator rights - good!
+02:03:16 ã  [main] 	XAMPP Installation Directory: "e:\programs\xampp\"
+02:03:16 ã  [main] 	Checking for prerequisites
+02:03:53 ã  [main] 	All prerequisites found
+02:03:53 ã  [main] 	Initializing Modules
+02:03:53 ã  [main] 	The FileZilla module is disabled
+02:03:53 ã  [main] 	The Mercury module is disabled
+02:03:53 ã  [main] 	The Tomcat module is disabled
+02:03:53 ã  [main] 	Enabling autostart for module "Apache"
+02:03:53 ã  [main] 	Enabling autostart for module "MySQL"
+02:03:53 ã  [main] 	Starting Check-Timer
+02:03:53 ã  [main] 	Control Panel Ready
+02:03:53 ã  [Apache] 	Autostart active: starting...
+02:03:53 ã  [Apache] 	Attempting to start Apache app...
+02:03:53 ã  [mysql] 	Autostart active: starting...
+02:03:54 ã  [mysql] 	Attempting to start MySQL app...
+02:03:57 ã  [Apache] 	Status change detected: running
+02:03:57 ã  [mysql] 	Status change detected: running
+03:27:56 ã  [main] 	Deinitializing Modules
+03:27:56 ã  [main] 	Deinitializing Control Panel
+
